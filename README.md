@@ -2,7 +2,7 @@ Hi, I'm Fabiana!
 
 I want to contribute to AI for social impact. This is where I share the code of the tools I build for NGOs and social-impact teams.
 
-I design and deploy applied AI workflows tailored for public policy, civic advocacy, and institutional governance. Rather than writing software from scratch, I orchestrate AI stacks (LLM APIs, semantic embeddings, workflow automation) to solve friction, ensuring every solution remains auditable, ethically sound, and grounded in domain expertise.
+I design and deploy applied AI tools tailored for public policy, civic advocacy, and institutional governance. Rather than writing software from scratch, I orchestrate AI stacks (LLM APIs, semantic embeddings, workflow automation) to solve friction, ensuring every solution remains auditable, ethically sound, and grounded in domain expertise.
 
 **What I work on:**
 
