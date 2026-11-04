@@ -1,5 +1,4 @@
-**Hi, I'm Fabiana!
-**
+Hi, I'm Fabiana!
 
 I want to contribute to AI for social impact. This is where I share the code of the tools I build for NGOs and social-impact teams.
 
